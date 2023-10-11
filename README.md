@@ -1,2 +1,2 @@
-# boilerplate
-Basic HTML and CSS setup for simple web design
+# HellowWorld-V2
+Basic HellowWorld information page.
